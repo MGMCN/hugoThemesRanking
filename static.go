@@ -79,7 +79,7 @@ func generateContent(tag string, themes []map[string]interface{}) string {
 }
 
 func generateREADME(content string) {
-	err := os.WriteFile("test.md", []byte(content), 0644)
+	err := os.WriteFile("list.md", []byte(content), 0644)
 	if err != nil {
 		log.Println("generateREADME error!")
 		return

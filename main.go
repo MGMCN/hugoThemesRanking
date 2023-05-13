@@ -1,7 +1,7 @@
 package main
 
 func main() {
-	var tags = []string{"Blog", "Responsive", "Minimal", "Personal", "Light", "Dark", "Multilingual", "Portfolio", "Bootstrap", "Landing", "Dark-mode", "Docs", "Company", "Gallery", "Contact", "Archive"}
+	var tags = []string{"Blog", "Responsive", "Minimal", "Personal", "Light", "Dark", "Multilingual", "Portfolio", "Bootstrap", "Landing", "Dark Mode", "Docs", "Company", "Gallery", "Contact", "Archive"}
 	hugoCrawler := GetCrawler()
 	hugoCrawler.InitHugoThemeCrawler()
 	if hugoCrawler.startCrawlHugoThemes() == nil {
