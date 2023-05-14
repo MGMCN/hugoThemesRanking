@@ -23,6 +23,12 @@ func getThemesByTag(themeList []map[string]interface{}, tag string) []map[string
 	for _, item := range themeList {
 		tTags, ok := item["Tags:"].([]string)
 		if ok {
+			if tag == "unknown" {
+				if len(tTags) == 0 {
+					themes = append(themes, item)
+					continue
+				}
+			}
 			if containsTag(tTags, tag) {
 				themes = append(themes, item)
 			}
