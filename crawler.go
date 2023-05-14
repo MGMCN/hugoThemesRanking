@@ -129,9 +129,9 @@ func (ht *HugoThemeCrawler) parseTagsPage(DOM *goquery.Selection) []string {
 		href, exists := element.Attr("href")
 		if exists {
 			hrefs = append(hrefs, href)
+			go ht.c.Visit(href)
 			//log.Printf("In parseTagsPage: Parsing href -> %s\n", href)
 		}
-		go ht.c.Visit(href)
 	})
 	return hrefs
 }
