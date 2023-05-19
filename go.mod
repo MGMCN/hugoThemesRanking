@@ -1,11 +1,13 @@
-module hgtranking
+module github.com/MGMCN/hgtranking
 
 go 1.20
 
-require github.com/gocolly/colly/v2 v2.1.0
+require (
+	github.com/PuerkitoBio/goquery v1.5.1
+	github.com/gocolly/colly/v2 v2.1.0
+)
 
 require (
-	github.com/PuerkitoBio/goquery v1.5.1 // indirect
 	github.com/andybalholm/cascadia v1.2.0 // indirect
 	github.com/antchfx/htmlquery v1.2.3 // indirect
 	github.com/antchfx/xmlquery v1.2.4 // indirect
