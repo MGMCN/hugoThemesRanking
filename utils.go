@@ -7,6 +7,7 @@ import (
 	"regexp"
 	"sort"
 	"strconv"
+	"strings"
 )
 
 func containsTag(tags []string, tag string) bool {
@@ -43,13 +44,20 @@ func sortByKey(themeList []map[string]interface{}, key string) {
 		key2, _ := themeList[j][key].(string)
 		num1, _ := strconv.Atoi(key1)
 		num2, _ := strconv.Atoi(key2)
-		return num1 > num2
+		if num1 != num2 {
+			return num1 > num2
+		}
+		updated1, _ := themeList[i]["Updated:"].(string)
+		updated2, _ := themeList[j]["Updated:"].(string)
+		return updated1 > updated2
 	})
 }
 
 func getOrDefault(value interface{}, defaultValue string) string {
 	if value != nil {
-		return fmt.Sprintf("%v", value)
+		valueStr := fmt.Sprintf("%v", value)
+		valueStr = strings.ReplaceAll(valueStr, "|", "_")
+		return valueStr
 	}
 	return defaultValue
 }
