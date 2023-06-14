@@ -69,6 +69,7 @@
 | [hugo-theme-air](https://themes.gohugo.io/themes/hugo-theme-air/) | syui | 134 | 2022-01-03 | 0.14 | MIT |
 | [roxo-hugo](https://themes.gohugo.io/themes/roxo-hugo/) | Static Mania | 130 | 2022-10-25 | 0.58.0 | MIT |
 | [hugo-vitae](https://themes.gohugo.io/themes/hugo-vitae/) | Benedikt 'dataCobra' Brinkmann | 124 | 2023-02-10 | 0.62.0 | GPL-3.0-or-later |
+| [hugo-theme-next](https://themes.gohugo.io/themes/hugo-theme-next/) | lisenhui | 122 | 2022-10-30 | 0.89.0 | MIT |
 | [hugo-theme-nix](https://themes.gohugo.io/themes/hugo-theme-nix/) | Matúš Námešný | 120 | 2023-05-20 | 0.2 | MIT |
 | [pulp](https://themes.gohugo.io/themes/pulp/) | koirand | 120 | 2022-08-08 | 0.73 | MIT |
 | [mediumish-gohugo-theme](https://themes.gohugo.io/themes/mediumish-gohugo-theme/) | lgaida | 119 | 2023-02-02 | 0.41 | MIT |
@@ -83,7 +84,6 @@
 | [blonde](https://themes.gohugo.io/themes/blonde/) | wamo | 90 | 2023-03-29 | unknown | MIT |
 | [minimal-bootstrap-hugo-theme](https://themes.gohugo.io/themes/minimal-bootstrap-hugo-theme/) | Zachary Betz | 89 | 2023-01-03 | 0.60.1 | MIT |
 | [hugo-geekblog](https://themes.gohugo.io/themes/hugo-geekblog/) | Robert Kaussow | 84 | 2023-06-09 | 0.93.0 | MIT |
-| [hugo-theme-next](https://themes.gohugo.io/themes/hugo-theme-next/) | elkan | 83 | 2022-06-24 | 0.59.1 | MIT |
 | [tailbliss](https://themes.gohugo.io/themes/tailbliss/) | Jeremy Nusser | 82 | 2023-06-10 | 0.104.0 | Apache-2.0 |
 | [hugo-xmag](https://themes.gohugo.io/themes/hugo-xmag/) | Yihui Xie | 82 | 2022-11-09 | 0.18 | MIT |
 | [hugo-theme-minima](https://themes.gohugo.io/themes/hugo-theme-minima/) | XJJ | 82 | 2022-01-26 | 0.41.0 | MIT |
@@ -96,13 +96,13 @@
 | [devise](https://themes.gohugo.io/themes/devise/) | Austin Gebauer | 67 | 2023-05-01 | 0.61.0 | MIT |
 | [hugo-initio](https://themes.gohugo.io/themes/hugo-initio/) | Miguel Simoni | 67 | 2022-12-23 | 0.68.3 | MIT |
 | [bare-hugo-theme](https://themes.gohugo.io/themes/bare-hugo-theme/) | Tom Forbes | 64 | 2023-04-01 | 0.58.3 | MIT |
-| [hugo-theme-gruvbox](https://themes.gohugo.io/themes/hugo-theme-gruvbox/) | Michael Schnerring | 62 | 2023-06-06 | 0.84.0 | MIT |
+| [hugo-theme-gruvbox](https://themes.gohugo.io/themes/hugo-theme-gruvbox/) | Michael Schnerring | 62 | 2023-06-13 | 0.84.0 | MIT |
 | [osprey-delight](https://themes.gohugo.io/themes/osprey-delight/) | kdevo | 61 | 2022-05-01 | 0.83.0 | Apache License 2.0 |
 | [hugo-theme-iris](https://themes.gohugo.io/themes/hugo-theme-iris/) | peaceiris | 59 | 2023-01-20 | 0.110.0 | MIT |
 | [hugo-theme-nostyleplease](https://themes.gohugo.io/themes/hugo-theme-nostyleplease/) | Masellum | 56 | 2023-04-29 | 0.41.0 | MIT |
 | [tella](https://themes.gohugo.io/themes/tella/) | wamo | 53 | 2023-03-29 | unknown | MIT |
 | [hugo-theme-w3css-basic](https://themes.gohugo.io/themes/hugo-theme-w3css-basic/) | it-gro | 52 | 2023-03-06 | 0.101.0 | MIT |
-| [poison](https://themes.gohugo.io/themes/poison/) | Luke Orth | 50 | 2023-06-06 | 0.41.0 | GPL-3.0 License |
+| [poison](https://themes.gohugo.io/themes/poison/) | Luke Orth | 50 | 2023-06-13 | 0.41.0 | GPL-3.0 License |
 | [hugo-theme-virgo](https://themes.gohugo.io/themes/hugo-theme-virgo/) | Jack Liu | 49 | 2023-05-25 | 0.41.0 | MIT |
 | [hugo-theme-fluency](https://themes.gohugo.io/themes/hugo-theme-fluency/) | WayJam So | 49 | 2023-05-10 | 0.76 | MIT |
 | [engimo](https://themes.gohugo.io/themes/engimo/) | Munif Tanjim | 48 | 2022-09-21 | 0.73.0 | MIT |
@@ -122,7 +122,7 @@
 | [henry-hugo](https://themes.gohugo.io/themes/henry-hugo/) | Kaushik Gopal | 34 | 2023-05-16 | 0.84.0 | unknown |
 | [aafu](https://themes.gohugo.io/themes/aafu/) | Darshan Baral | 34 | 2022-12-01 | 0.100.2 | MIT |
 | [hugo-theme-den](https://themes.gohugo.io/themes/hugo-theme-den/) | shaform | 34 | 2022-07-04 | 0.41 | GPLv2 |
-| [theme](https://themes.gohugo.io/themes/theme/) | HB Framework Authors | 30 | 2023-04-18 | unknown | MIT |
+| [theme](https://themes.gohugo.io/themes/theme/) | HB Framework Authors | 31 | 2023-04-18 | unknown | MIT |
 | [simple-style](https://themes.gohugo.io/themes/simple-style/) | Linlin Yan | 29 | 2022-04-14 | 0.61.0 | MIT |
 | [hugo-theme-hinode](https://themes.gohugo.io/themes/hugo-theme-hinode/) | Mark Dumay | 28 | 2023-06-07 | 0.81.0 | MIT |
 | [simpleness](https://themes.gohugo.io/themes/simpleness/) | Rainer Chiang | 28 | 2022-04-13 | 0.51 | MIT |
@@ -168,13 +168,13 @@
 | [kaslaanka](https://themes.gohugo.io/themes/kaslaanka/) | Youssef Hesham | 9 | 2023-04-03 | 0.90.0 | GPL-v3 |
 | [hugo-tikva](https://themes.gohugo.io/themes/hugo-tikva/) | Ralf Geschke | 9 | 2023-02-16 | 0.100.0 | MIT |
 | [hugo-theme-ava](https://themes.gohugo.io/themes/hugo-theme-ava/) | Julien Maury | 9 | 2023-01-16 | 0.87.0 | MIT |
+| [hugo-dead-simple](https://themes.gohugo.io/themes/hugo-dead-simple/) | Gleb Buzin | 8 | 2023-06-02 | 0.83.0 | MIT |
 | [hugo-bearcub](https://themes.gohugo.io/themes/hugo-bearcub/) | Caio Lente | 8 | 2023-04-25 | unknown | MIT |
-| [hugo-dead-simple](https://themes.gohugo.io/themes/hugo-dead-simple/) | Gleb Buzin | 7 | 2023-06-02 | 0.83.0 | MIT |
+| [lightbi-hugo](https://themes.gohugo.io/themes/lightbi-hugo/) | Bino Kochumol Varghese | 7 | 2023-06-12 | 0.41.0 | MIT |
 | [hugo-theme-flat](https://themes.gohugo.io/themes/hugo-theme-flat/) | leafee98 | 7 | 2023-05-28 | unknown | MIT |
 | [lowkey-hugo-theme](https://themes.gohugo.io/themes/lowkey-hugo-theme/) | Nixentric | 7 | 2023-05-11 | 0.109.0 | MIT |
 | [ticky_tacky_dark](https://themes.gohugo.io/themes/ticky_tacky_dark/) | kc0bfv | 7 | 2022-11-11 | 0.40 | MIT |
 | [hugo-theme-sk2](https://themes.gohugo.io/themes/hugo-theme-sk2/) | John Siu | 7 | 2022-05-16 | 0.65.0 | MIT |
-| [lightbi-hugo](https://themes.gohugo.io/themes/lightbi-hugo/) | Bino Kochumol Varghese | 6 | 2023-06-10 | 0.41.0 | MIT |
 | [salinger-theme](https://themes.gohugo.io/themes/salinger-theme/) | Jack Salici | 6 | 2022-05-29 | 0.87.0 | MIT |
 | [ronu-hugo-theme](https://themes.gohugo.io/themes/ronu-hugo-theme/) | Deepak Karanth | 6 | 2022-05-17 | 0.91.2 | MIT |
 | [blogra](https://themes.gohugo.io/themes/blogra/) | Rafed Muhammad Yasir | 5 | 2023-06-01 | 0.91.2 | GPL |
@@ -263,7 +263,7 @@
 | [hugo-whisper-theme](https://themes.gohugo.io/themes/hugo-whisper-theme/) | Robert Austin | 225 | 2022-01-03 | unknown | MIT |
 | [hugo-theme-luna](https://themes.gohugo.io/themes/hugo-theme-luna/) | Ice-Hazymoon | 224 | 2022-06-11 | 0.97.0 | GPL V3.0 |
 | [keepit](https://themes.gohugo.io/themes/keepit/) | Fastbyte01 | 224 | 2022-03-16 | 0.53 | MIT |
-| [hugo-resume](https://themes.gohugo.io/themes/hugo-resume/) | Eddie Webb | 214 | 2023-06-05 | 0.62 | MIT |
+| [hugo-resume](https://themes.gohugo.io/themes/hugo-resume/) | Eddie Webb | 214 | 2023-06-13 | 0.62 | MIT |
 | [hugo-sustain](https://themes.gohugo.io/themes/hugo-sustain/) | Nurlan Suyundukov | 205 | 2023-05-24 | 0.41.0 | MIT |
 | [hugo-theme-zen](https://themes.gohugo.io/themes/hugo-theme-zen/) | Fredrik Jonsson | 203 | 2023-01-25 | 0.88.1 | GPLv2 |
 | [hugo-scroll](https://themes.gohugo.io/themes/hugo-scroll/) | unknown | 201 | 2023-04-10 | 0.111.2 | MIT |
@@ -281,6 +281,7 @@
 | [roxo-hugo](https://themes.gohugo.io/themes/roxo-hugo/) | Static Mania | 130 | 2022-10-25 | 0.58.0 | MIT |
 | [eternity](https://themes.gohugo.io/themes/eternity/) | Bora Tanrikulu | 128 | 2023-06-08 | 0.100.0 | MIT |
 | [hugo-vitae](https://themes.gohugo.io/themes/hugo-vitae/) | Benedikt 'dataCobra' Brinkmann | 124 | 2023-02-10 | 0.62.0 | GPL-3.0-or-later |
+| [hugo-theme-next](https://themes.gohugo.io/themes/hugo-theme-next/) | lisenhui | 122 | 2022-10-30 | 0.89.0 | MIT |
 | [mediumish-gohugo-theme](https://themes.gohugo.io/themes/mediumish-gohugo-theme/) | lgaida | 119 | 2023-02-02 | 0.41 | MIT |
 | [hugo-refresh](https://themes.gohugo.io/themes/hugo-refresh/) | Roberto Jordaney | 117 | 2022-09-17 | 0.45 | MIT |
 | [hugo-webslides](https://themes.gohugo.io/themes/hugo-webslides/) | RCJacH | 116 | 2022-02-23 | 0.81 | MIT |
@@ -301,7 +302,7 @@
 | [hugo-initio](https://themes.gohugo.io/themes/hugo-initio/) | Miguel Simoni | 67 | 2022-12-23 | 0.68.3 | MIT |
 | [gochowdown](https://themes.gohugo.io/themes/gochowdown/) | Sean Lane | 66 | 2022-06-03 | 0.58 | MIT |
 | [bare-hugo-theme](https://themes.gohugo.io/themes/bare-hugo-theme/) | Tom Forbes | 64 | 2023-04-01 | 0.58.3 | MIT |
-| [hugo-theme-gruvbox](https://themes.gohugo.io/themes/hugo-theme-gruvbox/) | Michael Schnerring | 62 | 2023-06-06 | 0.84.0 | MIT |
+| [hugo-theme-gruvbox](https://themes.gohugo.io/themes/hugo-theme-gruvbox/) | Michael Schnerring | 62 | 2023-06-13 | 0.84.0 | MIT |
 | [hugo-split-theme](https://themes.gohugo.io/themes/hugo-split-theme/) |  | 61 | 2022-09-22 | 0.21 | Creative Commons Attribution 3.0 Unported |
 | [osprey-delight](https://themes.gohugo.io/themes/osprey-delight/) | kdevo | 61 | 2022-05-01 | 0.83.0 | Apache License 2.0 |
 | [hugo-alageek-theme](https://themes.gohugo.io/themes/hugo-alageek-theme/) | Gökmen Görgen | 59 | 2023-04-10 | 0.41.0 | MIT |
@@ -326,7 +327,7 @@
 | [hugo-blog-awesome](https://themes.gohugo.io/themes/hugo-blog-awesome/) | Sidharth R | 35 | 2023-06-08 | 0.86.0 | MIT |
 | [henry-hugo](https://themes.gohugo.io/themes/henry-hugo/) | Kaushik Gopal | 34 | 2023-05-16 | 0.84.0 | unknown |
 | [hugo-theme-den](https://themes.gohugo.io/themes/hugo-theme-den/) | shaform | 34 | 2022-07-04 | 0.41 | GPLv2 |
-| [theme](https://themes.gohugo.io/themes/theme/) | HB Framework Authors | 30 | 2023-04-18 | unknown | MIT |
+| [theme](https://themes.gohugo.io/themes/theme/) | HB Framework Authors | 31 | 2023-04-18 | unknown | MIT |
 | [hugo-theme-notrack](https://themes.gohugo.io/themes/hugo-theme-notrack/) | Simon Bengtsson | 27 | 2023-05-28 | 0.70.0 | GPLv3 |
 | [lekh](https://themes.gohugo.io/themes/lekh/) | Rahul Tiwari | 27 | 2023-05-06 | 0.38 | MIT |
 | [hugo-astatine-theme](https://themes.gohugo.io/themes/hugo-astatine-theme/) | Hugo Cisneros | 27 | 2023-02-13 | 0.57.0 | MIT |
@@ -341,10 +342,10 @@
 | [hugo-theme-sk3](https://themes.gohugo.io/themes/hugo-theme-sk3/) | John, Sing Dao, Siu | 18 | 2022-05-15 | 0.65.0 | MIT |
 | [holy](https://themes.gohugo.io/themes/holy/) | SerKo | 17 | 2023-06-07 | 0.41.0 | MIT |
 | [minimage](https://themes.gohugo.io/themes/minimage/) | Daisuke KONISHI | 17 | 2022-01-11 | 0.73.0 | MIT |
+| [amethyst](https://themes.gohugo.io/themes/amethyst/) | Ben Cuan | 16 | 2023-06-08 | 0.93 | MIT |
 | [compost](https://themes.gohugo.io/themes/compost/) | Can Stand | 16 | 2023-03-31 | 0.110.0 | MIT |
 | [piko](https://themes.gohugo.io/themes/piko/) | Heksagon | 16 | 2023-03-26 | 0.91.0 | MIT |
 | [hugo-arcana](https://themes.gohugo.io/themes/hugo-arcana/) | Trevor Bergeron | 16 | 2022-09-25 | 0.86.0 | Creative Commons Attribution 3.0 Unported |
-| [amethyst](https://themes.gohugo.io/themes/amethyst/) | Ben Cuan | 15 | 2023-06-08 | 0.93 | MIT |
 | [niello](https://themes.gohugo.io/themes/niello/) | guangmean | 15 | 2023-04-05 | 0.60.0 | MIT |
 | [hugo-dpsg](https://themes.gohugo.io/themes/hugo-dpsg/) | unknown | 15 | 2022-07-28 | 0.48 | GPL-2.0-only |
 | [hugo-theme-hamburg](https://themes.gohugo.io/themes/hugo-theme-hamburg/) | Hauke Stieler | 15 | 2022-05-15 | 0.62 | MIT |
@@ -357,17 +358,17 @@
 | [hugotheme-vibrantshadows](https://themes.gohugo.io/themes/hugotheme-vibrantshadows/) | Softorage | 11 | 2022-08-21 | 0.75.1 | MIT |
 | [ink-free](https://themes.gohugo.io/themes/ink-free/) | Christian Hollinger | 10 | 2023-04-08 | 0.87.0 | MIT |
 | [vnovel](https://themes.gohugo.io/themes/vnovel/) | wamo | 10 | 2023-03-29 | unknown | MIT |
+| [adritian-free-hugo-theme](https://themes.gohugo.io/themes/adritian-free-hugo-theme/) | Adrián Moreno Peña | 9 | 2023-04-07 | 0.59.0 | MIT |
 | [kaslaanka](https://themes.gohugo.io/themes/kaslaanka/) | Youssef Hesham | 9 | 2023-04-03 | 0.90.0 | GPL-v3 |
 | [hugo-tikva](https://themes.gohugo.io/themes/hugo-tikva/) | Ralf Geschke | 9 | 2023-02-16 | 0.100.0 | MIT |
 | [hugo-theme-ava](https://themes.gohugo.io/themes/hugo-theme-ava/) | Julien Maury | 9 | 2023-01-16 | 0.87.0 | MIT |
+| [hugo-dead-simple](https://themes.gohugo.io/themes/hugo-dead-simple/) | Gleb Buzin | 8 | 2023-06-02 | 0.83.0 | MIT |
 | [hugo-bearcub](https://themes.gohugo.io/themes/hugo-bearcub/) | Caio Lente | 8 | 2023-04-25 | unknown | MIT |
 | [flex-bp-hugo-cv](https://themes.gohugo.io/themes/flex-bp-hugo-cv/) | Sebastian Pech | 8 | 2022-12-23 | 0.57.0 | MIT |
-| [hugo-dead-simple](https://themes.gohugo.io/themes/hugo-dead-simple/) | Gleb Buzin | 7 | 2023-06-02 | 0.83.0 | MIT |
+| [lightbi-hugo](https://themes.gohugo.io/themes/lightbi-hugo/) | Bino Kochumol Varghese | 7 | 2023-06-12 | 0.41.0 | MIT |
 | [hugo-theme-flat](https://themes.gohugo.io/themes/hugo-theme-flat/) | leafee98 | 7 | 2023-05-28 | unknown | MIT |
 | [lowkey-hugo-theme](https://themes.gohugo.io/themes/lowkey-hugo-theme/) | Nixentric | 7 | 2023-05-11 | 0.109.0 | MIT |
-| [adritian-free-hugo-theme](https://themes.gohugo.io/themes/adritian-free-hugo-theme/) | Adrián Moreno Peña | 7 | 2023-04-07 | 0.59.0 | MIT |
 | [ticky_tacky_dark](https://themes.gohugo.io/themes/ticky_tacky_dark/) | kc0bfv | 7 | 2022-11-11 | 0.40 | MIT |
-| [lightbi-hugo](https://themes.gohugo.io/themes/lightbi-hugo/) | Bino Kochumol Varghese | 6 | 2023-06-10 | 0.41.0 | MIT |
 | [salinger-theme](https://themes.gohugo.io/themes/salinger-theme/) | Jack Salici | 6 | 2022-05-29 | 0.87.0 | MIT |
 | [ronu-hugo-theme](https://themes.gohugo.io/themes/ronu-hugo-theme/) | Deepak Karanth | 6 | 2022-05-17 | 0.91.2 | MIT |
 | [blogra](https://themes.gohugo.io/themes/blogra/) | Rafed Muhammad Yasir | 5 | 2023-06-01 | 0.91.2 | GPL |
@@ -467,13 +468,13 @@
 | [vanilla-bootstrap-hugo-theme](https://themes.gohugo.io/themes/vanilla-bootstrap-hugo-theme/) | Zachary Betz | 71 | 2023-01-03 | 0.81.0 | MIT |
 | [devise](https://themes.gohugo.io/themes/devise/) | Austin Gebauer | 67 | 2023-05-01 | 0.61.0 | MIT |
 | [bare-hugo-theme](https://themes.gohugo.io/themes/bare-hugo-theme/) | Tom Forbes | 64 | 2023-04-01 | 0.58.3 | MIT |
-| [hugo-theme-gruvbox](https://themes.gohugo.io/themes/hugo-theme-gruvbox/) | Michael Schnerring | 62 | 2023-06-06 | 0.84.0 | MIT |
+| [hugo-theme-gruvbox](https://themes.gohugo.io/themes/hugo-theme-gruvbox/) | Michael Schnerring | 62 | 2023-06-13 | 0.84.0 | MIT |
 | [hugo-split-theme](https://themes.gohugo.io/themes/hugo-split-theme/) |  | 61 | 2022-09-22 | 0.21 | Creative Commons Attribution 3.0 Unported |
 | [osprey-delight](https://themes.gohugo.io/themes/osprey-delight/) | kdevo | 61 | 2022-05-01 | 0.83.0 | Apache License 2.0 |
 | [bootstrap-bp-hugo-startpage](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/) | Sebastian Pech | 57 | 2022-12-23 | 0.48.0 | MIT |
 | [hugo-theme-nostyleplease](https://themes.gohugo.io/themes/hugo-theme-nostyleplease/) | Masellum | 56 | 2023-04-29 | 0.41.0 | MIT |
 | [vncnt-hugo](https://themes.gohugo.io/themes/vncnt-hugo/) | fncnt | 56 | 2022-11-28 | 0.60 | MIT |
-| [poison](https://themes.gohugo.io/themes/poison/) | Luke Orth | 50 | 2023-06-06 | 0.41.0 | GPL-3.0 License |
+| [poison](https://themes.gohugo.io/themes/poison/) | Luke Orth | 50 | 2023-06-13 | 0.41.0 | GPL-3.0 License |
 | [engimo](https://themes.gohugo.io/themes/engimo/) | Munif Tanjim | 48 | 2022-09-21 | 0.73.0 | MIT |
 | [paige](https://themes.gohugo.io/themes/paige/) | Will Faught | 47 | 2023-05-13 | 0.111.3 | Apache-2.0 |
 | [slick](https://themes.gohugo.io/themes/slick/) | Frieder Grießhammer | 46 | 2023-01-05 | 0.60.0 | MIT |
@@ -509,16 +510,16 @@
 | [hugo-theme-nightfall](https://themes.gohugo.io/themes/hugo-theme-nightfall/) | Matúš Námešný | 12 | 2023-05-03 | 0.80.0 | MIT |
 | [ink-free](https://themes.gohugo.io/themes/ink-free/) | Christian Hollinger | 10 | 2023-04-08 | 0.87.0 | MIT |
 | [vnovel](https://themes.gohugo.io/themes/vnovel/) | wamo | 10 | 2023-03-29 | unknown | MIT |
+| [adritian-free-hugo-theme](https://themes.gohugo.io/themes/adritian-free-hugo-theme/) | Adrián Moreno Peña | 9 | 2023-04-07 | 0.59.0 | MIT |
 | [kaslaanka](https://themes.gohugo.io/themes/kaslaanka/) | Youssef Hesham | 9 | 2023-04-03 | 0.90.0 | GPL-v3 |
 | [hugo-tikva](https://themes.gohugo.io/themes/hugo-tikva/) | Ralf Geschke | 9 | 2023-02-16 | 0.100.0 | MIT |
 | [hugo-theme-ava](https://themes.gohugo.io/themes/hugo-theme-ava/) | Julien Maury | 9 | 2023-01-16 | 0.87.0 | MIT |
+| [hugo-dead-simple](https://themes.gohugo.io/themes/hugo-dead-simple/) | Gleb Buzin | 8 | 2023-06-02 | 0.83.0 | MIT |
 | [hugo-bearcub](https://themes.gohugo.io/themes/hugo-bearcub/) | Caio Lente | 8 | 2023-04-25 | unknown | MIT |
 | [flex-bp-hugo-cv](https://themes.gohugo.io/themes/flex-bp-hugo-cv/) | Sebastian Pech | 8 | 2022-12-23 | 0.57.0 | MIT |
-| [hugo-dead-simple](https://themes.gohugo.io/themes/hugo-dead-simple/) | Gleb Buzin | 7 | 2023-06-02 | 0.83.0 | MIT |
+| [lightbi-hugo](https://themes.gohugo.io/themes/lightbi-hugo/) | Bino Kochumol Varghese | 7 | 2023-06-12 | 0.41.0 | MIT |
 | [lowkey-hugo-theme](https://themes.gohugo.io/themes/lowkey-hugo-theme/) | Nixentric | 7 | 2023-05-11 | 0.109.0 | MIT |
-| [adritian-free-hugo-theme](https://themes.gohugo.io/themes/adritian-free-hugo-theme/) | Adrián Moreno Peña | 7 | 2023-04-07 | 0.59.0 | MIT |
 | [hugo-theme-sk2](https://themes.gohugo.io/themes/hugo-theme-sk2/) | John Siu | 7 | 2022-05-16 | 0.65.0 | MIT |
-| [lightbi-hugo](https://themes.gohugo.io/themes/lightbi-hugo/) | Bino Kochumol Varghese | 6 | 2023-06-10 | 0.41.0 | MIT |
 | [salinger-theme](https://themes.gohugo.io/themes/salinger-theme/) | Jack Salici | 6 | 2022-05-29 | 0.87.0 | MIT |
 | [ronu-hugo-theme](https://themes.gohugo.io/themes/ronu-hugo-theme/) | Deepak Karanth | 6 | 2022-05-17 | 0.91.2 | MIT |
 | [kembang](https://themes.gohugo.io/themes/kembang/) | Aziz | 5 | 2023-04-14 | unknown | MIT |
@@ -575,6 +576,7 @@
 | [gokarna](https://themes.gohugo.io/themes/gokarna/) | unknown | 168 | 2023-06-11 | 0.81.0 | GNU GPLv3 |
 | [lynx](https://themes.gohugo.io/themes/lynx/) | James Panther | 166 | 2023-06-04 | 0.86.1 | MIT |
 | [aether](https://themes.gohugo.io/themes/aether/) | Joe Hutchinson | 142 | 2023-01-06 | 0.41 | MIT |
+| [hugo-theme-next](https://themes.gohugo.io/themes/hugo-theme-next/) | lisenhui | 122 | 2022-10-30 | 0.89.0 | MIT |
 | [pulp](https://themes.gohugo.io/themes/pulp/) | koirand | 120 | 2022-08-08 | 0.73 | MIT |
 | [mediumish-gohugo-theme](https://themes.gohugo.io/themes/mediumish-gohugo-theme/) | lgaida | 119 | 2023-02-02 | 0.41 | MIT |
 | [hugo-refresh](https://themes.gohugo.io/themes/hugo-refresh/) | Roberto Jordaney | 117 | 2022-09-17 | 0.45 | MIT |
@@ -582,25 +584,24 @@
 | [personal-web](https://themes.gohugo.io/themes/personal-web/) | Baptiste Jacquemet | 101 | 2023-06-06 | 0.41 | MIT |
 | [manis-hugo-theme](https://themes.gohugo.io/themes/manis-hugo-theme/) | Yurizal Susanto | 95 | 2023-02-28 | 0.57 | MIT |
 | [blonde](https://themes.gohugo.io/themes/blonde/) | wamo | 90 | 2023-03-29 | unknown | MIT |
-| [hugo-theme-next](https://themes.gohugo.io/themes/hugo-theme-next/) | elkan | 83 | 2022-06-24 | 0.59.1 | MIT |
 | [tailbliss](https://themes.gohugo.io/themes/tailbliss/) | Jeremy Nusser | 82 | 2023-06-10 | 0.104.0 | Apache-2.0 |
 | [hugo-theme-minima](https://themes.gohugo.io/themes/hugo-theme-minima/) | XJJ | 82 | 2022-01-26 | 0.41.0 | MIT |
 | [devise](https://themes.gohugo.io/themes/devise/) | Austin Gebauer | 67 | 2023-05-01 | 0.61.0 | MIT |
 | [hugo-initio](https://themes.gohugo.io/themes/hugo-initio/) | Miguel Simoni | 67 | 2022-12-23 | 0.68.3 | MIT |
-| [hugo-theme-gruvbox](https://themes.gohugo.io/themes/hugo-theme-gruvbox/) | Michael Schnerring | 62 | 2023-06-06 | 0.84.0 | MIT |
+| [hugo-theme-gruvbox](https://themes.gohugo.io/themes/hugo-theme-gruvbox/) | Michael Schnerring | 62 | 2023-06-13 | 0.84.0 | MIT |
 | [hugo-split-theme](https://themes.gohugo.io/themes/hugo-split-theme/) |  | 61 | 2022-09-22 | 0.21 | Creative Commons Attribution 3.0 Unported |
 | [osprey-delight](https://themes.gohugo.io/themes/osprey-delight/) | kdevo | 61 | 2022-05-01 | 0.83.0 | Apache License 2.0 |
 | [hugo-theme-iris](https://themes.gohugo.io/themes/hugo-theme-iris/) | peaceiris | 59 | 2023-01-20 | 0.110.0 | MIT |
 | [hugo-product-launch](https://themes.gohugo.io/themes/hugo-product-launch/) | Jan Raasch | 57 | 2023-04-04 | 0.69.0 | Creative Commons Attribution 4.0 International Public License (CC BY 4.0) |
 | [vncnt-hugo](https://themes.gohugo.io/themes/vncnt-hugo/) | fncnt | 56 | 2022-11-28 | 0.60 | MIT |
 | [hugo-theme-w3css-basic](https://themes.gohugo.io/themes/hugo-theme-w3css-basic/) | it-gro | 52 | 2023-03-06 | 0.101.0 | MIT |
-| [poison](https://themes.gohugo.io/themes/poison/) | Luke Orth | 50 | 2023-06-06 | 0.41.0 | GPL-3.0 License |
+| [poison](https://themes.gohugo.io/themes/poison/) | Luke Orth | 50 | 2023-06-13 | 0.41.0 | GPL-3.0 License |
 | [paige](https://themes.gohugo.io/themes/paige/) | Will Faught | 47 | 2023-05-13 | 0.111.3 | Apache-2.0 |
 | [slick](https://themes.gohugo.io/themes/slick/) | Frieder Grießhammer | 46 | 2023-01-05 | 0.60.0 | MIT |
 | [paperesque](https://themes.gohugo.io/themes/paperesque/) | Fabian Tamp | 44 | 2023-03-13 | 0.74.3 | MIT |
 | [hugo-digital-garden-theme](https://themes.gohugo.io/themes/hugo-digital-garden-theme/) | Paul Martins | 41 | 2023-03-11 | 0.81.0 | MIT |
 | [internet-weblog](https://themes.gohugo.io/themes/internet-weblog/) | Josh Johnson | 37 | 2022-11-09 | 0.14 | MIT |
-| [theme](https://themes.gohugo.io/themes/theme/) | HB Framework Authors | 30 | 2023-04-18 | unknown | MIT |
+| [theme](https://themes.gohugo.io/themes/theme/) | HB Framework Authors | 31 | 2023-04-18 | unknown | MIT |
 | [hugo-theme-notrack](https://themes.gohugo.io/themes/hugo-theme-notrack/) | Simon Bengtsson | 27 | 2023-05-28 | 0.70.0 | GPLv3 |
 | [lekh](https://themes.gohugo.io/themes/lekh/) | Rahul Tiwari | 27 | 2023-05-06 | 0.38 | MIT |
 | [hugo-astatine-theme](https://themes.gohugo.io/themes/hugo-astatine-theme/) | Hugo Cisneros | 27 | 2023-02-13 | 0.57.0 | MIT |
@@ -619,11 +620,11 @@
 | [ink-free](https://themes.gohugo.io/themes/ink-free/) | Christian Hollinger | 10 | 2023-04-08 | 0.87.0 | MIT |
 | [vnovel](https://themes.gohugo.io/themes/vnovel/) | wamo | 10 | 2023-03-29 | unknown | MIT |
 | [hugo-theme-onelou](https://themes.gohugo.io/themes/hugo-theme-onelou/) | JIANGYY | 10 | 2022-09-14 | 0.87.0 | MIT |
+| [adritian-free-hugo-theme](https://themes.gohugo.io/themes/adritian-free-hugo-theme/) | Adrián Moreno Peña | 9 | 2023-04-07 | 0.59.0 | MIT |
 | [kaslaanka](https://themes.gohugo.io/themes/kaslaanka/) | Youssef Hesham | 9 | 2023-04-03 | 0.90.0 | GPL-v3 |
 | [hugo-bearcub](https://themes.gohugo.io/themes/hugo-bearcub/) | Caio Lente | 8 | 2023-04-25 | unknown | MIT |
 | [hugo-theme-flat](https://themes.gohugo.io/themes/hugo-theme-flat/) | leafee98 | 7 | 2023-05-28 | unknown | MIT |
 | [lowkey-hugo-theme](https://themes.gohugo.io/themes/lowkey-hugo-theme/) | Nixentric | 7 | 2023-05-11 | 0.109.0 | MIT |
-| [adritian-free-hugo-theme](https://themes.gohugo.io/themes/adritian-free-hugo-theme/) | Adrián Moreno Peña | 7 | 2023-04-07 | 0.59.0 | MIT |
 | [ticky_tacky_dark](https://themes.gohugo.io/themes/ticky_tacky_dark/) | kc0bfv | 7 | 2022-11-11 | 0.40 | MIT |
 | [hugo-theme-sk2](https://themes.gohugo.io/themes/hugo-theme-sk2/) | John Siu | 7 | 2022-05-16 | 0.65.0 | MIT |
 | [hugo-bootstrap-freelancer-template](https://themes.gohugo.io/themes/hugo-bootstrap-freelancer-template/) | Joseph mcCarthy | 5 | 2022-09-16 | unknown | MIT |
@@ -670,6 +671,7 @@
 | [hugo-theme-relearn](https://themes.gohugo.io/themes/hugo-theme-relearn/) | Sören Weber | 166 | 2023-06-10 | 0.95.0 | MIT |
 | [lynx](https://themes.gohugo.io/themes/lynx/) | James Panther | 166 | 2023-06-04 | 0.86.1 | MIT |
 | [hugo-vitae](https://themes.gohugo.io/themes/hugo-vitae/) | Benedikt 'dataCobra' Brinkmann | 124 | 2023-02-10 | 0.62.0 | GPL-3.0-or-later |
+| [hugo-theme-next](https://themes.gohugo.io/themes/hugo-theme-next/) | lisenhui | 122 | 2022-10-30 | 0.89.0 | MIT |
 | [pulp](https://themes.gohugo.io/themes/pulp/) | koirand | 120 | 2022-08-08 | 0.73 | MIT |
 | [hugo-refresh](https://themes.gohugo.io/themes/hugo-refresh/) | Roberto Jordaney | 117 | 2022-09-17 | 0.45 | MIT |
 | [hugo-theme-texify](https://themes.gohugo.io/themes/hugo-theme-texify/) | Queensferry | 105 | 2023-06-11 | 0.60 | MIT |
@@ -686,7 +688,7 @@
 | [hugo-alageek-theme](https://themes.gohugo.io/themes/hugo-alageek-theme/) | Gökmen Görgen | 59 | 2023-04-10 | 0.41.0 | MIT |
 | [bootstrap-bp-hugo-startpage](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/) | Sebastian Pech | 57 | 2022-12-23 | 0.48.0 | MIT |
 | [tella](https://themes.gohugo.io/themes/tella/) | wamo | 53 | 2023-03-29 | unknown | MIT |
-| [poison](https://themes.gohugo.io/themes/poison/) | Luke Orth | 50 | 2023-06-06 | 0.41.0 | GPL-3.0 License |
+| [poison](https://themes.gohugo.io/themes/poison/) | Luke Orth | 50 | 2023-06-13 | 0.41.0 | GPL-3.0 License |
 | [hugo-theme-fluency](https://themes.gohugo.io/themes/hugo-theme-fluency/) | WayJam So | 49 | 2023-05-10 | 0.76 | MIT |
 | [paige](https://themes.gohugo.io/themes/paige/) | Will Faught | 47 | 2023-05-13 | 0.111.3 | Apache-2.0 |
 | [slick](https://themes.gohugo.io/themes/slick/) | Frieder Grießhammer | 46 | 2023-01-05 | 0.60.0 | MIT |
@@ -706,13 +708,13 @@
 | [vno-hugo](https://themes.gohugo.io/themes/vno-hugo/) | xsling | 12 | 2022-09-10 | 0.54.0 | CC BY-NC-SA 4.0 |
 | [vnovel](https://themes.gohugo.io/themes/vnovel/) | wamo | 10 | 2023-03-29 | unknown | MIT |
 | [hugo-theme-onelou](https://themes.gohugo.io/themes/hugo-theme-onelou/) | JIANGYY | 10 | 2022-09-14 | 0.87.0 | MIT |
+| [adritian-free-hugo-theme](https://themes.gohugo.io/themes/adritian-free-hugo-theme/) | Adrián Moreno Peña | 9 | 2023-04-07 | 0.59.0 | MIT |
 | [hugo-tikva](https://themes.gohugo.io/themes/hugo-tikva/) | Ralf Geschke | 9 | 2023-02-16 | 0.100.0 | MIT |
+| [hugo-dead-simple](https://themes.gohugo.io/themes/hugo-dead-simple/) | Gleb Buzin | 8 | 2023-06-02 | 0.83.0 | MIT |
 | [flex-bp-hugo-cv](https://themes.gohugo.io/themes/flex-bp-hugo-cv/) | Sebastian Pech | 8 | 2022-12-23 | 0.57.0 | MIT |
-| [hugo-dead-simple](https://themes.gohugo.io/themes/hugo-dead-simple/) | Gleb Buzin | 7 | 2023-06-02 | 0.83.0 | MIT |
+| [lightbi-hugo](https://themes.gohugo.io/themes/lightbi-hugo/) | Bino Kochumol Varghese | 7 | 2023-06-12 | 0.41.0 | MIT |
 | [hugo-theme-flat](https://themes.gohugo.io/themes/hugo-theme-flat/) | leafee98 | 7 | 2023-05-28 | unknown | MIT |
 | [lowkey-hugo-theme](https://themes.gohugo.io/themes/lowkey-hugo-theme/) | Nixentric | 7 | 2023-05-11 | 0.109.0 | MIT |
-| [adritian-free-hugo-theme](https://themes.gohugo.io/themes/adritian-free-hugo-theme/) | Adrián Moreno Peña | 7 | 2023-04-07 | 0.59.0 | MIT |
-| [lightbi-hugo](https://themes.gohugo.io/themes/lightbi-hugo/) | Bino Kochumol Varghese | 6 | 2023-06-10 | 0.41.0 | MIT |
 | [hugo-theme-hello-4s3ti](https://themes.gohugo.io/themes/hugo-theme-hello-4s3ti/) | 4s3ti | 4 | 2023-05-21 | 0.3 | MIT |
 | [hugo-simpleintro](https://themes.gohugo.io/themes/hugo-simpleintro/) | Giuseppe Masino (qub1750ul) | 3 | 2022-07-30 | 0.83.1 | Apache-2.0 |
 | [chalk](https://themes.gohugo.io/themes/chalk/) | ph-ph | 3 | 2022-05-15 | 0.57.1 | MIT |
@@ -765,24 +767,24 @@
 | [gokarna](https://themes.gohugo.io/themes/gokarna/) | unknown | 168 | 2023-06-11 | 0.81.0 | GNU GPLv3 |
 | [hugo-theme-relearn](https://themes.gohugo.io/themes/hugo-theme-relearn/) | Sören Weber | 166 | 2023-06-10 | 0.95.0 | MIT |
 | [lynx](https://themes.gohugo.io/themes/lynx/) | James Panther | 166 | 2023-06-04 | 0.86.1 | MIT |
+| [hugo-theme-next](https://themes.gohugo.io/themes/hugo-theme-next/) | lisenhui | 122 | 2022-10-30 | 0.89.0 | MIT |
 | [hugo-theme-pico](https://themes.gohugo.io/themes/hugo-theme-pico/) | Alexandre NEGREL | 105 | 2023-04-19 | 0.72 | MIT |
 | [binario](https://themes.gohugo.io/themes/binario/) | Vimux | 96 | 2023-04-25 | 0.54.0 | MIT |
 | [hugo-theme-monochrome](https://themes.gohugo.io/themes/hugo-theme-monochrome/) | You-Kai Zheng | 96 | 2022-04-02 | 0.80.0 | MIT |
 | [blonde](https://themes.gohugo.io/themes/blonde/) | wamo | 90 | 2023-03-29 | unknown | MIT |
-| [hugo-theme-next](https://themes.gohugo.io/themes/hugo-theme-next/) | elkan | 83 | 2022-06-24 | 0.59.1 | MIT |
 | [tailbliss](https://themes.gohugo.io/themes/tailbliss/) | Jeremy Nusser | 82 | 2023-06-10 | 0.104.0 | Apache-2.0 |
 | [hugo-theme-minima](https://themes.gohugo.io/themes/hugo-theme-minima/) | XJJ | 82 | 2022-01-26 | 0.41.0 | MIT |
 | [autophugo](https://themes.gohugo.io/themes/autophugo/) | unknown | 74 | 2023-04-10 | 0.58.0 | CCA 3.0 Unported |
 | [hugotex](https://themes.gohugo.io/themes/hugotex/) | kaisugi | 72 | 2022-11-06 | 0.92.0 | MIT |
 | [hugo-alageek-theme](https://themes.gohugo.io/themes/hugo-alageek-theme/) | Gökmen Görgen | 59 | 2023-04-10 | 0.41.0 | MIT |
 | [hugo-theme-iris](https://themes.gohugo.io/themes/hugo-theme-iris/) | peaceiris | 59 | 2023-01-20 | 0.110.0 | MIT |
-| [poison](https://themes.gohugo.io/themes/poison/) | Luke Orth | 50 | 2023-06-06 | 0.41.0 | GPL-3.0 License |
+| [poison](https://themes.gohugo.io/themes/poison/) | Luke Orth | 50 | 2023-06-13 | 0.41.0 | GPL-3.0 License |
 | [hugo-theme-fluency](https://themes.gohugo.io/themes/hugo-theme-fluency/) | WayJam So | 49 | 2023-05-10 | 0.76 | MIT |
 | [paige](https://themes.gohugo.io/themes/paige/) | Will Faught | 47 | 2023-05-13 | 0.111.3 | Apache-2.0 |
 | [bootstrap-bp-hugo-theme](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/) | Sebastian Pech | 43 | 2022-12-23 | 0.57.0 | MIT |
 | [hugo-digital-garden-theme](https://themes.gohugo.io/themes/hugo-digital-garden-theme/) | Paul Martins | 41 | 2023-03-11 | 0.81.0 | MIT |
 | [hugo-blog-awesome](https://themes.gohugo.io/themes/hugo-blog-awesome/) | Sidharth R | 35 | 2023-06-08 | 0.86.0 | MIT |
-| [theme](https://themes.gohugo.io/themes/theme/) | HB Framework Authors | 30 | 2023-04-18 | unknown | MIT |
+| [theme](https://themes.gohugo.io/themes/theme/) | HB Framework Authors | 31 | 2023-04-18 | unknown | MIT |
 | [lekh](https://themes.gohugo.io/themes/lekh/) | Rahul Tiwari | 27 | 2023-05-06 | 0.38 | MIT |
 | [hugo-astatine-theme](https://themes.gohugo.io/themes/hugo-astatine-theme/) | Hugo Cisneros | 27 | 2023-02-13 | 0.57.0 | MIT |
 | [npq-hugo](https://themes.gohugo.io/themes/npq-hugo/) | saadnpq | 24 | 2023-03-27 | 0.59.1 | GPLv3 |
@@ -856,17 +858,17 @@
 | [bootstrap-bp-hugo-theme](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/) | Sebastian Pech | 43 | 2022-12-23 | 0.57.0 | MIT |
 | [henry-hugo](https://themes.gohugo.io/themes/henry-hugo/) | Kaushik Gopal | 34 | 2023-05-16 | 0.84.0 | unknown |
 | [hugo-theme-den](https://themes.gohugo.io/themes/hugo-theme-den/) | shaform | 34 | 2022-07-04 | 0.41 | GPLv2 |
-| [theme](https://themes.gohugo.io/themes/theme/) | HB Framework Authors | 30 | 2023-04-18 | unknown | MIT |
+| [theme](https://themes.gohugo.io/themes/theme/) | HB Framework Authors | 31 | 2023-04-18 | unknown | MIT |
 | [hugo-w3-simple](https://themes.gohugo.io/themes/hugo-w3-simple/) | Jesse Lau | 22 | 2022-06-09 | 0.57 | MIT |
 | [materialize-bp-hugo-theme](https://themes.gohugo.io/themes/materialize-bp-hugo-theme/) | Sebastian Pech | 18 | 2023-04-07 | 0.57.0 | MIT |
 | [photophobia](https://themes.gohugo.io/themes/photophobia/) | setsevireon | 17 | 2022-02-08 | 0.80.0 | MIT |
-| [amethyst](https://themes.gohugo.io/themes/amethyst/) | Ben Cuan | 15 | 2023-06-08 | 0.93 | MIT |
+| [amethyst](https://themes.gohugo.io/themes/amethyst/) | Ben Cuan | 16 | 2023-06-08 | 0.93 | MIT |
 | [hugo-theme-hamburg](https://themes.gohugo.io/themes/hugo-theme-hamburg/) | Hauke Stieler | 15 | 2022-05-15 | 0.62 | MIT |
 | [gohugo-theme-ed](https://themes.gohugo.io/themes/gohugo-theme-ed/) | Serghei Iakovlev | 14 | 2022-09-25 | 0.95.0 | MIT |
 | [inventory-hugo-theme](https://themes.gohugo.io/themes/inventory-hugo-theme/) | unknown | 13 | 2022-09-20 | 0.64.0 | MPL-2.0 |
 | [hugo-bearcub](https://themes.gohugo.io/themes/hugo-bearcub/) | Caio Lente | 8 | 2023-04-25 | unknown | MIT |
 | [flex-bp-hugo-cv](https://themes.gohugo.io/themes/flex-bp-hugo-cv/) | Sebastian Pech | 8 | 2022-12-23 | 0.57.0 | MIT |
-| [lightbi-hugo](https://themes.gohugo.io/themes/lightbi-hugo/) | Bino Kochumol Varghese | 6 | 2023-06-10 | 0.41.0 | MIT |
+| [lightbi-hugo](https://themes.gohugo.io/themes/lightbi-hugo/) | Bino Kochumol Varghese | 7 | 2023-06-12 | 0.41.0 | MIT |
 | [hugo-theme-hello-4s3ti](https://themes.gohugo.io/themes/hugo-theme-hello-4s3ti/) | 4s3ti | 4 | 2023-05-21 | 0.3 | MIT |
 | [hugo-arogya-theme](https://themes.gohugo.io/themes/hugo-arogya-theme/) |  | 2 | 2022-10-08 | unknown | MIT |
 | [hugo-fill-and-stroke](https://themes.gohugo.io/themes/hugo-fill-and-stroke/) | knokmki612 | 1 | 2022-04-29 | 0.78.1 | GPLv3 |
@@ -888,7 +890,7 @@
 | [hugo-profile](https://themes.gohugo.io/themes/hugo-profile/) | Gurusabarish | 344 | 2023-03-21 | 0.68.0 | MIT |
 | [hugo-hero-theme](https://themes.gohugo.io/themes/hugo-hero-theme/) | Robert Austin | 305 | 2021-12-26 | unknown | MIT |
 | [hugo-theme-console](https://themes.gohugo.io/themes/hugo-theme-console/) | Marcin Mierzejewski | 281 | 2022-03-30 | 0.81.0 | MIT |
-| [hugo-resume](https://themes.gohugo.io/themes/hugo-resume/) | Eddie Webb | 214 | 2023-06-05 | 0.62 | MIT |
+| [hugo-resume](https://themes.gohugo.io/themes/hugo-resume/) | Eddie Webb | 214 | 2023-06-13 | 0.62 | MIT |
 | [gokarna](https://themes.gohugo.io/themes/gokarna/) | unknown | 168 | 2023-06-11 | 0.81.0 | GNU GPLv3 |
 | [hugo-story](https://themes.gohugo.io/themes/hugo-story/) | caressofsteel | 137 | 2023-01-22 | 0.67.3 Extended | Creative Commons |
 | [roxo-hugo](https://themes.gohugo.io/themes/roxo-hugo/) | Static Mania | 130 | 2022-10-25 | 0.58.0 | MIT |
@@ -910,8 +912,8 @@
 | [hugo-theme-doors](https://themes.gohugo.io/themes/hugo-theme-doors/) | zzzmisa | 13 | 2022-02-05 | unknown | MIT |
 | [port-hugo](https://themes.gohugo.io/themes/port-hugo/) | tylerjlawson | 12 | 2022-09-27 | 0.60.0 | MIT |
 | [ink-free](https://themes.gohugo.io/themes/ink-free/) | Christian Hollinger | 10 | 2023-04-08 | 0.87.0 | MIT |
-| [adritian-free-hugo-theme](https://themes.gohugo.io/themes/adritian-free-hugo-theme/) | Adrián Moreno Peña | 7 | 2023-04-07 | 0.59.0 | MIT |
-| [lightbi-hugo](https://themes.gohugo.io/themes/lightbi-hugo/) | Bino Kochumol Varghese | 6 | 2023-06-10 | 0.41.0 | MIT |
+| [adritian-free-hugo-theme](https://themes.gohugo.io/themes/adritian-free-hugo-theme/) | Adrián Moreno Peña | 9 | 2023-04-07 | 0.59.0 | MIT |
+| [lightbi-hugo](https://themes.gohugo.io/themes/lightbi-hugo/) | Bino Kochumol Varghese | 7 | 2023-06-12 | 0.41.0 | MIT |
 | [salinger-theme](https://themes.gohugo.io/themes/salinger-theme/) | Jack Salici | 6 | 2022-05-29 | 0.87.0 | MIT |
 | [hugo-simplecss](https://themes.gohugo.io/themes/hugo-simplecss/) | Spencer Churchill | 3 | 2022-04-26 | unknown | MIT |
 | [up-business-theme](https://themes.gohugo.io/themes/up-business-theme/) | Iago Bozza | 0 | 2023-02-01 | unknown | MIT |
@@ -937,7 +939,7 @@
 | [bootstrap-bp-hugo-startpage](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/) | Sebastian Pech | 57 | 2022-12-23 | 0.48.0 | MIT |
 | [paige](https://themes.gohugo.io/themes/paige/) | Will Faught | 47 | 2023-05-13 | 0.111.3 | Apache-2.0 |
 | [bootstrap-bp-hugo-theme](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/) | Sebastian Pech | 43 | 2022-12-23 | 0.57.0 | MIT |
-| [theme](https://themes.gohugo.io/themes/theme/) | HB Framework Authors | 30 | 2023-04-18 | unknown | MIT |
+| [theme](https://themes.gohugo.io/themes/theme/) | HB Framework Authors | 31 | 2023-04-18 | unknown | MIT |
 | [hugo-theme-hinode](https://themes.gohugo.io/themes/hugo-theme-hinode/) | Mark Dumay | 28 | 2023-06-07 | 0.81.0 | MIT |
 | [hugo-now](https://themes.gohugo.io/themes/hugo-now/) | Michael Blum | 19 | 2023-02-26 | 0.57.0 | MIT |
 | [hugo_eiio](https://themes.gohugo.io/themes/hugo_eiio/) | Leon He | 18 | 2022-06-25 | 0.17 | MIT |
@@ -945,10 +947,10 @@
 | [inventory-hugo-theme](https://themes.gohugo.io/themes/inventory-hugo-theme/) | unknown | 13 | 2022-09-20 | 0.64.0 | MPL-2.0 |
 | [port-hugo](https://themes.gohugo.io/themes/port-hugo/) | tylerjlawson | 12 | 2022-09-27 | 0.60.0 | MIT |
 | [hugotheme-vibrantshadows](https://themes.gohugo.io/themes/hugotheme-vibrantshadows/) | Softorage | 11 | 2022-08-21 | 0.75.1 | MIT |
+| [adritian-free-hugo-theme](https://themes.gohugo.io/themes/adritian-free-hugo-theme/) | Adrián Moreno Peña | 9 | 2023-04-07 | 0.59.0 | MIT |
 | [hugo-tikva](https://themes.gohugo.io/themes/hugo-tikva/) | Ralf Geschke | 9 | 2023-02-16 | 0.100.0 | MIT |
-| [adritian-free-hugo-theme](https://themes.gohugo.io/themes/adritian-free-hugo-theme/) | Adrián Moreno Peña | 7 | 2023-04-07 | 0.59.0 | MIT |
+| [lightbi-hugo](https://themes.gohugo.io/themes/lightbi-hugo/) | Bino Kochumol Varghese | 7 | 2023-06-12 | 0.41.0 | MIT |
 | [ticky_tacky_dark](https://themes.gohugo.io/themes/ticky_tacky_dark/) | kc0bfv | 7 | 2022-11-11 | 0.40 | MIT |
-| [lightbi-hugo](https://themes.gohugo.io/themes/lightbi-hugo/) | Bino Kochumol Varghese | 6 | 2023-06-10 | 0.41.0 | MIT |
 | [blogra](https://themes.gohugo.io/themes/blogra/) | Rafed Muhammad Yasir | 5 | 2023-06-01 | 0.91.2 | GPL |
 | [hugo-arogya-theme](https://themes.gohugo.io/themes/hugo-arogya-theme/) |  | 2 | 2022-10-08 | unknown | MIT |
 | [up-business-theme](https://themes.gohugo.io/themes/up-business-theme/) | Iago Bozza | 0 | 2023-02-01 | unknown | MIT |
@@ -982,11 +984,11 @@
 | [hugo-theme-winning](https://themes.gohugo.io/themes/hugo-theme-winning/) | Tim Clulow | 52 | 2022-01-01 | 0.32.4 | MIT |
 | [paige](https://themes.gohugo.io/themes/paige/) | Will Faught | 47 | 2023-05-13 | 0.111.3 | Apache-2.0 |
 | [bulma](https://themes.gohugo.io/themes/bulma/) | jeblister | 43 | 2022-03-31 | 0.19 | MIT |
-| [theme](https://themes.gohugo.io/themes/theme/) | HB Framework Authors | 30 | 2023-04-18 | unknown | MIT |
+| [theme](https://themes.gohugo.io/themes/theme/) | HB Framework Authors | 31 | 2023-04-18 | unknown | MIT |
 | [hugo-theme-lean-launch-page](https://themes.gohugo.io/themes/hugo-theme-lean-launch-page/) | Ricardo N Feliciano | 30 | 2023-01-05 | 0.76 | MIT |
 | [piko](https://themes.gohugo.io/themes/piko/) | Heksagon | 16 | 2023-03-26 | 0.91.0 | MIT |
 | [hugo-theme-doors](https://themes.gohugo.io/themes/hugo-theme-doors/) | zzzmisa | 13 | 2022-02-05 | unknown | MIT |
-| [adritian-free-hugo-theme](https://themes.gohugo.io/themes/adritian-free-hugo-theme/) | Adrián Moreno Peña | 7 | 2023-04-07 | 0.59.0 | MIT |
+| [adritian-free-hugo-theme](https://themes.gohugo.io/themes/adritian-free-hugo-theme/) | Adrián Moreno Peña | 9 | 2023-04-07 | 0.59.0 | MIT |
 | [simple-snipcart-shop](https://themes.gohugo.io/themes/simple-snipcart-shop/) | tylerjlawson | 3 | 2022-03-23 | 0.60.0 | MIT |
 | [gruvhugo](https://themes.gohugo.io/themes/gruvhugo/) | Abraham Raji | 0 | 2023-05-15 | 0.41 | GPL-3.0 |
 | [up-business-theme](https://themes.gohugo.io/themes/up-business-theme/) | Iago Bozza | 0 | 2023-02-01 | unknown | MIT |
@@ -1009,10 +1011,10 @@
 | [hugo-theme-relearn](https://themes.gohugo.io/themes/hugo-theme-relearn/) | Sören Weber | 166 | 2023-06-10 | 0.95.0 | MIT |
 | [lynx](https://themes.gohugo.io/themes/lynx/) | James Panther | 166 | 2023-06-04 | 0.86.1 | MIT |
 | [hugo-flex](https://themes.gohugo.io/themes/hugo-flex/) | Léo de Souza | 76 | 2023-01-31 | 0.100 | Apache-2.0 |
-| [hugo-theme-gruvbox](https://themes.gohugo.io/themes/hugo-theme-gruvbox/) | Michael Schnerring | 62 | 2023-06-06 | 0.84.0 | MIT |
+| [hugo-theme-gruvbox](https://themes.gohugo.io/themes/hugo-theme-gruvbox/) | Michael Schnerring | 62 | 2023-06-13 | 0.84.0 | MIT |
 | [vncnt-hugo](https://themes.gohugo.io/themes/vncnt-hugo/) | fncnt | 56 | 2022-11-28 | 0.60 | MIT |
 | [paige](https://themes.gohugo.io/themes/paige/) | Will Faught | 47 | 2023-05-13 | 0.111.3 | Apache-2.0 |
-| [theme](https://themes.gohugo.io/themes/theme/) | HB Framework Authors | 30 | 2023-04-18 | unknown | MIT |
+| [theme](https://themes.gohugo.io/themes/theme/) | HB Framework Authors | 31 | 2023-04-18 | unknown | MIT |
 | [hugo-theme-sk3](https://themes.gohugo.io/themes/hugo-theme-sk3/) | John, Sing Dao, Siu | 18 | 2022-05-15 | 0.65.0 | MIT |
 | [holy](https://themes.gohugo.io/themes/holy/) | SerKo | 17 | 2023-06-07 | 0.41.0 | MIT |
 | [compost](https://themes.gohugo.io/themes/compost/) | Can Stand | 16 | 2023-03-31 | 0.110.0 | MIT |
@@ -1040,14 +1042,15 @@
 | [compose](https://themes.gohugo.io/themes/compose/) | Weru | 220 | 2023-05-30 | 0.76.0 | MIT |
 | [hugo-theme-relearn](https://themes.gohugo.io/themes/hugo-theme-relearn/) | Sören Weber | 166 | 2023-06-10 | 0.95.0 | MIT |
 | [hugo-theme-techdoc](https://themes.gohugo.io/themes/hugo-theme-techdoc/) | thingsym | 161 | 2022-07-08 | 0.60.0 | MIT |
+| [hugo-theme-next](https://themes.gohugo.io/themes/hugo-theme-next/) | lisenhui | 122 | 2022-10-30 | 0.89.0 | MIT |
 | [ace-documentation](https://themes.gohugo.io/themes/ace-documentation/) | Vantage Design | 93 | 2023-05-30 | 0.51.0 | MIT |
-| [theme](https://themes.gohugo.io/themes/theme/) | HB Framework Authors | 30 | 2023-04-18 | unknown | MIT |
+| [theme](https://themes.gohugo.io/themes/theme/) | HB Framework Authors | 31 | 2023-04-18 | unknown | MIT |
 | [hugo-theme-hinode](https://themes.gohugo.io/themes/hugo-theme-hinode/) | Mark Dumay | 28 | 2023-06-07 | 0.81.0 | MIT |
-| [shadocs](https://themes.gohugo.io/themes/shadocs/) | Jordan GAZEAU | 26 | 2023-06-09 | 0.91.0 | MIT |
-| [amethyst](https://themes.gohugo.io/themes/amethyst/) | Ben Cuan | 15 | 2023-06-08 | 0.93 | MIT |
+| [shadocs](https://themes.gohugo.io/themes/shadocs/) | Jordan GAZEAU | 26 | 2023-06-13 | 0.91.0 | MIT |
+| [amethyst](https://themes.gohugo.io/themes/amethyst/) | Ben Cuan | 16 | 2023-06-08 | 0.93 | MIT |
 | [hugo_theme_adam_eve](https://themes.gohugo.io/themes/hugo_theme_adam_eve/) | Olivier DOSSMANN | 13 | 2022-11-04 | 0.105.0 | MIT |
 | [inventory-hugo-theme](https://themes.gohugo.io/themes/inventory-hugo-theme/) | unknown | 13 | 2022-09-20 | 0.64.0 | MPL-2.0 |
-| [hugo-dead-simple](https://themes.gohugo.io/themes/hugo-dead-simple/) | Gleb Buzin | 7 | 2023-06-02 | 0.83.0 | MIT |
+| [hugo-dead-simple](https://themes.gohugo.io/themes/hugo-dead-simple/) | Gleb Buzin | 8 | 2023-06-02 | 0.83.0 | MIT |
 | [hugo-eureka](https://themes.gohugo.io/themes/hugo-eureka/) | unknown | 0 | 2022-06-01 | 0.74.0 | Apache 2.0 |
 </details>
 <details>
@@ -1070,8 +1073,8 @@
 | [spectral](https://themes.gohugo.io/themes/spectral/) |  | 36 | 2023-05-29 | 0.60.0 | CC-BY 3.0 |
 | [piko](https://themes.gohugo.io/themes/piko/) | Heksagon | 16 | 2023-03-26 | 0.91.0 | MIT |
 | [hugo-arcana](https://themes.gohugo.io/themes/hugo-arcana/) | Trevor Bergeron | 16 | 2022-09-25 | 0.86.0 | Creative Commons Attribution 3.0 Unported |
-| [hugo-dead-simple](https://themes.gohugo.io/themes/hugo-dead-simple/) | Gleb Buzin | 7 | 2023-06-02 | 0.83.0 | MIT |
-| [lightbi-hugo](https://themes.gohugo.io/themes/lightbi-hugo/) | Bino Kochumol Varghese | 6 | 2023-06-10 | 0.41.0 | MIT |
+| [hugo-dead-simple](https://themes.gohugo.io/themes/hugo-dead-simple/) | Gleb Buzin | 8 | 2023-06-02 | 0.83.0 | MIT |
+| [lightbi-hugo](https://themes.gohugo.io/themes/lightbi-hugo/) | Bino Kochumol Varghese | 7 | 2023-06-12 | 0.41.0 | MIT |
 | [hugo-bootstrap-freelancer-template](https://themes.gohugo.io/themes/hugo-bootstrap-freelancer-template/) | Joseph mcCarthy | 5 | 2022-09-16 | unknown | MIT |
 | [simple-snipcart-shop](https://themes.gohugo.io/themes/simple-snipcart-shop/) | tylerjlawson | 3 | 2022-03-23 | 0.60.0 | MIT |
 | [up-business-theme](https://themes.gohugo.io/themes/up-business-theme/) | Iago Bozza | 0 | 2023-02-01 | unknown | MIT |
@@ -1096,7 +1099,7 @@
 | [paige](https://themes.gohugo.io/themes/paige/) | Will Faught | 47 | 2023-05-13 | 0.111.3 | Apache-2.0 |
 | [hugo-rocinante](https://themes.gohugo.io/themes/hugo-rocinante/) | Sid Verma | 41 | 2023-01-09 | 0.66 | MIT |
 | [hugo-theme-moments](https://themes.gohugo.io/themes/hugo-theme-moments/) | FarseaSH | 36 | 2023-05-23 | 0.85.0 | MIT |
-| [theme](https://themes.gohugo.io/themes/theme/) | HB Framework Authors | 30 | 2023-04-18 | unknown | MIT |
+| [theme](https://themes.gohugo.io/themes/theme/) | HB Framework Authors | 31 | 2023-04-18 | unknown | MIT |
 | [hugo-theme-doors](https://themes.gohugo.io/themes/hugo-theme-doors/) | zzzmisa | 13 | 2022-02-05 | unknown | MIT |
 | [hugo-split-gallery](https://themes.gohugo.io/themes/hugo-split-gallery/) | Thomas Muguet | 0 | 2022-07-14 | 0.73.0 | GPL-3.0-or-later |
 </details>
@@ -1115,7 +1118,7 @@
 | [holy](https://themes.gohugo.io/themes/holy/) | SerKo | 17 | 2023-06-07 | 0.41.0 | MIT |
 | [piko](https://themes.gohugo.io/themes/piko/) | Heksagon | 16 | 2023-03-26 | 0.91.0 | MIT |
 | [inventory-hugo-theme](https://themes.gohugo.io/themes/inventory-hugo-theme/) | unknown | 13 | 2022-09-20 | 0.64.0 | MPL-2.0 |
-| [adritian-free-hugo-theme](https://themes.gohugo.io/themes/adritian-free-hugo-theme/) | Adrián Moreno Peña | 7 | 2023-04-07 | 0.59.0 | MIT |
+| [adritian-free-hugo-theme](https://themes.gohugo.io/themes/adritian-free-hugo-theme/) | Adrián Moreno Peña | 9 | 2023-04-07 | 0.59.0 | MIT |
 | [hugo-arogya-theme](https://themes.gohugo.io/themes/hugo-arogya-theme/) |  | 2 | 2022-10-08 | unknown | MIT |
 | [hugo-theme-color-your-world](https://themes.gohugo.io/themes/hugo-theme-color-your-world/) | rmaguiar | 0 | 2023-02-05 | 0.73.0 | MIT |
 </details>
@@ -1128,7 +1131,7 @@
 | [hugo-theme-bootstrap](https://themes.gohugo.io/themes/hugo-theme-bootstrap/) | Razon Yang | 353 | 2023-05-23 | 0.97.0 | MIT |
 | [hugo-theme-luna](https://themes.gohugo.io/themes/hugo-theme-luna/) | Ice-Hazymoon | 224 | 2022-06-11 | 0.97.0 | GPL V3.0 |
 | [hugo-theme-fluency](https://themes.gohugo.io/themes/hugo-theme-fluency/) | WayJam So | 49 | 2023-05-10 | 0.76 | MIT |
-| [theme](https://themes.gohugo.io/themes/theme/) | HB Framework Authors | 30 | 2023-04-18 | unknown | MIT |
+| [theme](https://themes.gohugo.io/themes/theme/) | HB Framework Authors | 31 | 2023-04-18 | unknown | MIT |
 | [piko](https://themes.gohugo.io/themes/piko/) | Heksagon | 16 | 2023-03-26 | 0.91.0 | MIT |
 </details>
 <details>
